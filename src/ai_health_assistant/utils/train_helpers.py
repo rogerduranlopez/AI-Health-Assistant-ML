@@ -193,6 +193,7 @@ def plot_learning_curve(model_name, best_est, X_train, y_train, save = 'no', sco
     plt.title(title)
     plt.xlabel('Grandària del conjunt')
     plt.ylabel(f'Score ({score})')
+    plt.ylim(0, 1)
     plt.legend()
     plt.grid(True)
     
