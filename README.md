@@ -1,5 +1,3 @@
-# AI Health Assistant
-
 # Via Predictiva (ML) — AI Health Assistant
 
 **Predicció del cansament a partir de dades fisiològiques de wearables**
