@@ -65,8 +65,6 @@ Rendiment del **model final (LGBM)** al conjunt de prova:
 | **Recall (cansat)**   | **77,3%** |
 | **Precisió (cansat)** | **50,6%** |
 | **Exactitud global**  | **62,0%** |
-| **Falsos positius**   | **133**   |
-| **Falsos negatius**   | **40**    |
 
 **Interpretació.** El model és **sensible** detectant episodis reals de fatiga, però amb una precisió moderada; produeix falses alarmes. És adequat com a **indicador de risc**, no com a «jutge» per a decisions crítiques. Per això, a la solució final es combina amb el mòdul LLM, que genera el pla d’acció.
 
@@ -155,6 +153,7 @@ Si uses aquest treball, cita el projecte *Assistent de Salut basat en IA* i el c
 ## Contacte
 
 **Autor:** Roger Duran López
+
 **Tutor acadèmic:** Guillem Guigó i Corominas
 
 Per a dubtes tècnics o col·laboracions, obre una *issue* o envia’m un correu.
