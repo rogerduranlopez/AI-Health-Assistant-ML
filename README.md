@@ -107,7 +107,7 @@ Rendiment del **model final (LGBM)** al conjunt de prova:
 
 ```bash
 # 1) Clonar el repo
-git clone https://github.com/RogerDuran808/AI-Health-Assistant.git
+git clone https://github.com/rogerduranlopez/AI-Health-Assistant.git
 cd AI-Health-Assistant
 
 # 2) Crear entorn virtual
